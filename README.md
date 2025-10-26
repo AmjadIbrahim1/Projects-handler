@@ -1,4 +1,4 @@
-# Project Manager App
+# Projects Handler App
 
 A simple and efficient project management tool built with **React**.  
 The app allows users to create, view, edit, and delete projects while managing details such as project title, description, and due date. It includes form validation and a clean UI layout to enhance user experience.
