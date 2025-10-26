@@ -37,21 +37,4 @@ The app allows users to create, view, edit, and delete projects while managing d
 | Missing Fields | Not allowed |
 
 ---
-
-## 📦 Installation & Setup
-
-```bash
-# Clone repository
-git clone https://github.com/your-username/project-manager-app.git
-
-# Navigate into directory
-cd project-manager-app
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-
-
 Author : Amjad Ibrahim
