@@ -20,30 +20,22 @@ The app allows users to create, view, edit, and delete projects while managing d
 ## 📂 Project Structure
 
 src/
-│
-├── components/
-│   ├── 
-│   │   ├── Input.jsx
-│   │   └── Invalid.jsx
-│   │
-│   ├── 
-│   │   ├── ProjectSidebar.jsx
-│   │   └── NoProject.jsx
-│   │
-│   ├── 
-│   │   ├── NewProject.jsx
-│   │   ├── ProjectDetails.jsx
-│   │   └── ProjectItem.jsx (اختياري لاحقاً في حالة عرض مشروع)
-│
-├── validation/
-│   └── Date.js
-│
-├── assets/
-│   └── (images / icons / logos … if needed)
-│
-├── App.jsx
-├── main.jsx
-└── index.css
+  components/
+      Input.jsx
+      Invalid.jsx
+      ProjectSidebar.jsx
+      NoProject.jsx
+      NewProject.jsx
+      ProjectDetails.jsx
+      ProjectItem.jsx   (optional)
+  validation/
+    Date.js
+  assets/
+    ...images/icons
+  App.jsx
+  main.jsx
+  index.css
+
 
 
 ---
